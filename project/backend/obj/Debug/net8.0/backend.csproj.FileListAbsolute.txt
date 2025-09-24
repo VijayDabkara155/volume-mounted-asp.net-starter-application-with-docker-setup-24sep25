@@ -1,9 +1,7 @@
-/src/project/backend/obj/Debug/net8.0/backend.csproj.AssemblyReference.cache
 /src/project/backend/obj/Debug/net8.0/backend.GeneratedMSBuildEditorConfig.editorconfig
 /src/project/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache
 /src/project/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs
 /src/project/backend/obj/Debug/net8.0/backend.csproj.CoreCompileInputs.cache
-/src/project/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cs
 /src/project/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cache
 /src/project/backend/bin/Debug/net8.0/appsettings.Development.json
 /src/project/backend/bin/Debug/net8.0/appsettings.json
@@ -12,11 +10,6 @@
 /src/project/backend/bin/Debug/net8.0/backend.runtimeconfig.json
 /src/project/backend/bin/Debug/net8.0/backend.dll
 /src/project/backend/bin/Debug/net8.0/backend.pdb
-/src/project/backend/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
-/src/project/backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
-/src/project/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
-/src/project/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/src/project/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /src/project/backend/obj/Debug/net8.0/staticwebassets.build.json
 /src/project/backend/obj/Debug/net8.0/staticwebassets.development.json
 /src/project/backend/obj/Debug/net8.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
@@ -25,7 +18,6 @@
 /src/project/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.backend.props
 /src/project/backend/obj/Debug/net8.0/staticwebassets.pack.json
 /src/project/backend/obj/Debug/net8.0/scopedcss/bundle/backend.styles.css
-/src/project/backend/obj/Debug/net8.0/backend.csproj.Up2Date
 /src/project/backend/obj/Debug/net8.0/backend.dll
 /src/project/backend/obj/Debug/net8.0/refint/backend.dll
 /src/project/backend/obj/Debug/net8.0/backend.pdb
